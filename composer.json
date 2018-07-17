@@ -1,0 +1,19 @@
+{
+    "name": "mahmoud/payfort",
+    "description": "payfort payment gateway",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mahmoud Sami",
+            "email": "mahmodsaamy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { 
+            "Payfort\\" : "src/"
+        }
+    },
+    "require": {
+        "omnipay/common": "^3"
+    },
+}
