@@ -1,12 +1,7 @@
 ``` install ```
 
-composer.json
 ```
-  "autoload": {
-      "psr-4": {
-          "Payfort\\" : "common/components/payfort/src"
-      }
-  }
+    later
 ```
 
 
